@@ -6,6 +6,7 @@
 4. [2017-05-08] [laravel54-geetest](https://github.com/cqkd6381/laravel54-geetest)laravel5.4.21版本，将用与极验验证码 http://www.geetest.com 的使用
 5. [----------] 写出如本链接下显示的评论与回复功能<http://www.toutiao.com/a6417053876797882625>
 6. [----------] 中文总结Laravel的ModelFactory中`$faker->paragraph`中$faker的所有属性[Faker property](https://github.com/fzaninotto/Faker/blob/master/src/Faker/Generator.php)
+7. [----------] Carbon使用总结[Carbon](https://github.com/briannesbitt/Carbon)
 ## 关于我
 - [IT Blogs](http://www.cqkd6381.com).
 - 89年PHPer一枚，宅~
