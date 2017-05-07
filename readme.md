@@ -9,6 +9,7 @@
 ## 关于我
 - [IT Blogs](http://www.cqkd6381.com).
 - 89年PHPer一枚，宅~
+- 编程贵在点点滴滴的积累.
 
 
 
