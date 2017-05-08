@@ -9,6 +9,7 @@
 7. [----------] Carbon使用总结[Carbon](https://github.com/briannesbitt/Carbon)
 8. [----------] 七牛云-对象存储&CDN使用总结[七牛云](https://portal.qiniu.com/create)
 9. [2017-05-08] [laravel54-auth](https://github.com/cqkd6381/laravel54-auth)Laravel5.4用户认证系统学习与Gregwar/Captcha验证码
+10. [2017-05-08] [mewscaptcha](https://github.com/cqkd6381/mewscaptcha)laravel5.4版本实现[mewebstudio/captcha](https://github.com/mewebstudio/captcha)验证码
 ## 关于我
 - [IT Blogs](http://www.cqkd6381.com).
 - 89年PHPer一枚，宅~
